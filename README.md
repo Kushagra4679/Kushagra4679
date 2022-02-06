@@ -5,17 +5,17 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra4679" alt="kushagra4679" /></a> </p> -->
 
-- 🔭 I’m currently working on **Web-Technology**
+- 🔭 I’m currently working on **Web-Technology.**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript and React.**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/your-work](https://codepen.io/your-work)
+- 👨‍💻 All of my projects are available at : [https://codepen.io/your-work](https://codepen.io/your-work)
 
-- 💬 Ask me about **HTML, CSS, TailWind CSS, C++**
+- 💬 Ask me about **HTML, CSS, TailWind and C++.**
 
 - ⚡ Fun fact **I am a Techoholic !!!**
 
-- 📫 How to reach me **kusghagrathegame1@gmail.com**
+- 📫 How to reach me : **kusghagrathegame1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
