@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **HTML, CSS, TailWind CSS, C++**
 
+- ⚡ Fun fact **I am a Techoholic !!!**
+
 - 📫 How to reach me **kusghagrathegame1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
