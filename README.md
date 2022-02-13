@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React.**
 
-- 👨‍💻 All of my projects are available at : [https://codepen.io/your-work](https://codepen.io/your-work)
+- 👨‍💻 All of my projects are available at : [https://codepen.io/kushagra_01](https://codepen.io/kushagra_01)
 
 - 💬 Ask me about **HTML, CSS, TailWind and C++.**
 
