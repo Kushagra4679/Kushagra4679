@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KUSHAGRA</h1>
-<h3 align="center">A passionate Frontend Developer.</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 <div align="center">
 <img align="right" width="500"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9527e9d1f40e930f4084fdf6d8d8b1f3ed70b468837&rid=giphy.gif&ct=g" alt="GIF" > </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra4679&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra4679" /> </p>
